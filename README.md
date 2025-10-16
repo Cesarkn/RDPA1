@@ -12,5 +12,6 @@
 
 4. Visualização e Comparação:
 	O código gera dois gráficos de dispersão lado a lado:
+
 	Gráfico da Esquerda: Mostra os 3 clusters que o K-Means encontrou por conta própria, colorindo cada ponto (vinho) de acordo com o grupo atribuído. Os centroides de cada cluster são marcados com um "X" vermelho.
 	Gráfico da Direita: Mostra os mesmos pontos, mas coloridos de acordo com a classe real (verdadeira) de cada vinho. Este gráfico serve como uma "resposta" para validar visualmente o quão bem o K-Means se saiu.
